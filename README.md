@@ -12,7 +12,7 @@ This repository implements a simple spam email detection system using machine le
 
 1. **Clone this repository:**
     ```bash
-    git clone https://github.com/your-username/spam-detection.git
+    git clone https://github.com/leonidasmich/spam-detection-py.git
     ```
     Use code with caution.
 
