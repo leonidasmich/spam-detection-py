@@ -2,6 +2,10 @@
 
 This repository implements a simple spam email detection system using machine learning. It utilizes pre-processing techniques, feature extraction, and a Random Forest classifier to distinguish between spam and non-spam (ham) emails.
 
+## Dataset:
+
+The project utilizes a publicly available spam email dataset downloaded from Kaggle: [Spam Mails Dataset](https://www.kaggle.com/datasets/venky73/spam-mails-dataset?resource=download).
+
 ## Libraries:
 
 - **pandas** (`pd`): For data manipulation (loading and cleaning the CSV dataset).
